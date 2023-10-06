@@ -1,4 +1,4 @@
-# Website-to-Chatbot
+[# Website-to-Chatbot
 
 ChatGPT for every website 
 
@@ -42,3 +42,4 @@ https://heybot.thesamur.ai/
 [Chat with Youtube code](https://github.com/Anil-matcha/Chat-Youtube)
 
 [ChatGPT in Discord code](https://github.com/Anil-matcha/DiscordGPT)
+](https://github.com/TheOwaisShaikh/chatgptforeveryone)https://github.com/TheOwaisShaikh/chatgptforeveryone
