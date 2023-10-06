@@ -37,7 +37,7 @@ def main():
         st.session_state["url"] = ""
         
         # Hardcoded API key
-        st.session_state["OPENAI_API_KEY"] = "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"
+        st.session_state["OPENAI_API_KEY"] = "OPENAI_API_KEY"
         st.session_state["webquery"] = WebQuery(st.session_state["OPENAI_API_KEY"])
 
     st.header("Website to Chatbot")
