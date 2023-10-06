@@ -7,7 +7,7 @@ from langchain.llms import OpenAI
 from langchain.docstore.document import Document
 
 class WebQuery:
-    def __init__(self, openai_api_key="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") -> None:
+    def __init__(self, openai_api_key="OPENAI_API_KEY") -> None:
         self.embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
         os.environ["OPENAI_API_KEY"] = openai_api_key
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
