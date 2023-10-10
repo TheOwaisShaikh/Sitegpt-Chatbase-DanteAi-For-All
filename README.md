@@ -1,4 +1,4 @@
-# Website and PDF/TXT-to-Chatbot with ChatGPT
+# Website and PDF/TXT-to-Chatbot with ChatGPT And Langchain
 # Create app like SiteGPT or Chatbase or Dante AI 
 
 Unlock the potential of your content, be it from a website or a document (PDF/TXT). With ChatGPT, seamlessly transform any content into an interactive chatbot within minutes. Create an application reminiscent of platforms like SiteGPT, Chatbase, or Dante AI with our straightforward guide. Engage your visitors with automated yet personalized responses, catering to their queries promptly.
