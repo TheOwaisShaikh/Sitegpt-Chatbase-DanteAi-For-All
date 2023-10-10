@@ -1,28 +1,34 @@
-# Website-to-Chatbot
+# Website and PDF/TXT-to-Chatbot with ChatGPT
+# Create app like SiteGPT or Chatbase or Dante AI 
 
-ChatGPT for every website 
+Unlock the potential of your content, be it from a website or a document (PDF/TXT). With ChatGPT, seamlessly transform any content into an interactive chatbot within minutes. Create an application reminiscent of platforms like SiteGPT, Chatbase, or Dante AI with our straightforward guide. Engage your visitors with automated yet personalized responses, catering to their queries promptly.
 
-Instantly answer your visitors' questions with a personalized chatbot trained on your website content.
+If you value our project, don't forget to ⭐ (Star) the repo. This way, you won't miss out on any updates!
 
-Create app like [SiteGPT](https://www.thesamur.ai/sitegpt-alternative) or [Chatbase](https://www.thesamur.ai/chatbase-alternative) or [Dante AI](https://www.thesamur.ai/danteai-alternative) in less than 40 lines of code
+🔜 Exciting developments are on the horizon, including versions for Replit and Streamlit. Stay tuned!
 
-### Getting Started
+# Quick Start Guide:
 
-Code is up, ⭐ (Star) the repo to receive updates
+1. Setting Up the Environment:
+ Kickstart a virtual environment in Python. Here's a helpful guide.
+ Install the essential packages: pip install -r requirements.txt
+ Remember to set the OPENAI_API_KEY environment variable using your OpenAI API key.
 
-Replit and streamlit version coming soon
+3. Launching the Chatbot:
+For Website Content:
+ Get things rolling with: python main.py
+To tailor the content source:
 
-### How to run ?
+Change the url variable to your desired website or content.
+Update the query variable to match the questions or prompts you're aiming for.
 
-1. Create a virtual environment in python https://docs.python.org/3/library/venv.html
+# For PDF/TXT Documents:
 
-2. Run "pip install -r requirements.txt"
+Navigate to our dedicated "pdf/txt to chatbot" section.
+Adhere to the listed instructions, and you'll have your documents converted into a chatbot experience in no time.
 
-3. Set OPENAI_API_KEY environment variable with your openai key
 
-4. Run "python main.py"
+5. The Streamlit UI:
+Fancy a more polished, user-centric interface? Our integration with Streamlit has got you covered!
 
-5. Change url and query in code if you want to try with any other content
-
-To run streamlit app, follow the steps run "streamlit run streamlitui.py"
-
+After the preliminary setup, activate the UI with: streamlit run streamlitui.py
